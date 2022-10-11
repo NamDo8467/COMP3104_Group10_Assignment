@@ -1,0 +1,2 @@
+In software development, DevOps is like a bridge between development
+and production.
