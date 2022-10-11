@@ -1,0 +1,3 @@
+Course code: COMP3104
+This course will teach students how to use Git and Github effectively in order
+to manage a project successfully.
