@@ -1,0 +1,3 @@
+DevOps engineers build new skills on top of their current experience. Tasks like data management and library updates for new product releases combine with needs for leadership and collaboration across teams. It is important for DevOps engineers to understand the fundamentals of application development and delivery.
+
+Increased communication and collaboration in an organization is one of the key cultural aspects of DevOps. The use of DevOps tooling and automation of the software delivery process establishes collaboration by physically bringing together the workflows and responsibilities of development and operations.
