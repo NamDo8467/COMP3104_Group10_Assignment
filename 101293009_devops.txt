@@ -3,4 +3,5 @@ This course will teach students how to use Git and Github effectively in order
 to manage a project successfully. After completing this course, students 
 will be able to manage any project from small to big productively and 
 successfully, shorten the system development lifecycle and provie high
-quality software product.
+quality software product. DevOps engineers are crucial in every software 
+development project.
