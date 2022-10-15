@@ -3,3 +3,4 @@ I want to learn more to become a DevOps engineer.
 DevOps engineers earn a lot of money.
 DevOps have to be good in VCS. 
 Learning DevOps is essential to being a programmer.
+Learning DevOps is essential to any workplace.
