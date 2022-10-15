@@ -1,7 +1,7 @@
-Course Name: DevOps
-COurse Code: COMP 3104
+# Course Name: DevOps
+**_Course Code: COMP 3104_**
 Term: Fall 2022
-Teacher's Name: Pritesh Patel
+**Teacher's Name: Pritesh Patel**
 
 Describe:
 Software development and operations are combined to form the term 
