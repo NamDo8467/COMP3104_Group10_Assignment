@@ -1,4 +1,4 @@
-${ Course Name: DevOps}
+${bold}Course Name: DevOps${normal}
 Course Code: COMP 3104
 Term: Fall 2022
 Teacher's Name: Pritesh Patel
