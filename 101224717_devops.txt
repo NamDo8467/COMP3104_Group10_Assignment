@@ -1,0 +1,12 @@
+Course Name: DevOps
+COurse Code: COMP 3104
+Term: Fall 2022
+Teacher's Name: Pritesh Patel
+
+Describe:
+Software development and operations are combined to form the term 
+"DevOps".
+Students will know how to use Git and GitHub when they finish 
+half of the first semester. Moreover, students will be able to manage all 
+stages of the lifetime of an application from development to testing, and 
+operatins. 
