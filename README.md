@@ -6,4 +6,4 @@ Full Name: Minh Nhat Vo
 
 Status:
 - Added 3 files required
-_ Updated README.md file
+- Updated README.md file
