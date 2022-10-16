@@ -1,0 +1,3 @@
+DevOps is an umbrella term that depicts the activity of a group working together all through a whole programming creation process - from the plan through the improvement stages. DevOps has become the highest quality level in present-day IT, yet it implies various things to various individuals
+
+The DevOps course curriculum renders a professional capacity to manage and track different versions of source code, automate testing procedures, manage to cluster, and perform continuous monitoring with the help of many tools.
